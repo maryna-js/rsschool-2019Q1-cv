@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+https://maryna-js.github.io/rsschool-2019Q1-cv/cv
