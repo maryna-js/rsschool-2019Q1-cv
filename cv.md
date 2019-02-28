@@ -24,7 +24,6 @@ My strong work ethic and prior work experience will ensure that I make meaningfu
 - Javascript  
 - Git  
 - Adobe Photoshop  
-- Confident Mac user
 ##### Soft skills:  
 - self-management  
 - ability to listen  
@@ -66,8 +65,7 @@ My strong work ethic and prior work experience will ensure that I make meaningfu
 
 
 - The National Academy of Sciences of Belarus - [Centre for System Analysis & Strategic Research](http://center.basnet.by/index.htm)    
-*HTML + CSS*: creation of several HTML pages for website
-)
+*HTML + CSS*: creation of several HTML pages for website  
 
 ### Education
 
