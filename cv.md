@@ -1,13 +1,15 @@
-# Junior Web Developer CV    
+## Junior Web Developer CV    
 
 ### Maryna Rastargueva    
 
-**tel.**      | +375296394045  
-**e-mail**    | rastargueva.m@gmail.com  
-**telegram**  | @maryna_r  
+**tel.**: +375296394045  
+**e-mail**: rastargueva.m@gmail.com  
+**telegram**: @maryna_r  
 
 [LinkedIn](https://www.linkedin.com/in/marina-rastorgueva-22aa0b42/)    
-[Github](https://github.com/maryna-js)    
+[Github](https://github.com/maryna-js)      
+
+***  
 
 ### Summary    
 
@@ -60,18 +62,20 @@ My strong work ethic and prior work experience will ensure that I make meaningfu
 </script>
 ```  
 
-[Other code examples](https://github.com/maryna-js)
+[Other code examples by reference](https://github.com/maryna-js)
 
 ### Experience
 
-**Online web store sumka.by**
-*HTML, CSS*: adjustment and addition of style sheets, creation and edit of webpages. [Link to website](https://sumka.by/)  
+- Online web store [sumka.by](https://sumka.by/)   
+*HTML, CSS*: adjustment and addition of style sheets, creation and edit of webpages.  
 
-**IMAction (former IMCREDO)**
-*HTML + CSS*: web content edit at Wordpress based websites
 
-**The National Academy of Sciences of Belarus - Centre for System Analysis & Strategic Research** 
-*HTML + CSS*: creation of several HTML pages for [website](http://center.basnet.by/index.htm)
+- [IMAction](http://www.im-action.com/) (former IMCREDO)   
+*HTML + CSS*: web content edit at Wordpress based websites  
+
+
+- The National Academy of Sciences of Belarus - [Centre for System Analysis & Strategic Research](http://center.basnet.by/index.htm)    
+*HTML + CSS*: creation of several HTML pages for website
 )
 
 ### Education
@@ -85,7 +89,7 @@ Additional Education:
 
 ### English level
 
-**Intermediate Level B1:**
+*Intermediate Level B1:*
 - in-depth study at school and university
 - 1 year experience working with English-speaking clients (at International Marketing Agency)
 - self-education (specialized youtube channels with native speakers)
