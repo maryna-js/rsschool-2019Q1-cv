@@ -34,17 +34,8 @@ My strong work ethic and prior work experience will ensure that I make meaningfu
 
 ### Code examples    
 
-```<!DOCTYPE html>
-<title>Current Time</title>
+```js
 
-
-<time id="time"></time>
-
-<script>
-  /* 
-  Create a JavaScript Date object for the current date and time,
-  then extract the desired parts, then join them again in the desired format.
-  */
   var currentTime = new Date(),
       hours = currentTime.getHours(),
       minutes = currentTime.getMinutes();
@@ -59,7 +50,7 @@ My strong work ethic and prior work experience will ensure that I make meaningfu
       
   // Output the result to the above HTML element
   document.getElementById("time").innerHTML = time;
-</script>
+
 ```  
 
 [Other code examples by reference](https://github.com/maryna-js)
